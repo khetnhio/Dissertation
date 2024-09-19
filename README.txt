@@ -1,4 +1,5 @@
-This code is part of my dissertation submition for the University of Surrey
+This code is part of my Dissertation "Multimodal Deep Learning for Pneumonia Detection:
+Development and Analysis" for the University of Surrey
 
 The notebooks seen here were used to develop the Multimodal model.
 At the begining of each notebook an overview is provided detailing 
